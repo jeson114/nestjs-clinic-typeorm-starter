@@ -10,7 +10,7 @@ async function bootstrap() {
   app.setGlobalPrefix('api');
 
   const config = new DocumentBuilder()
-    .setTitle('prime nestjs')
+    .setTitle('nestjs-skeleton')
     .setDescription('Boilerplate for nestjs')
     .setVersion('1.0')
     .addTag('api')
